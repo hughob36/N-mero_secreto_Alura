@@ -1,7 +1,7 @@
 
 let intentos = 1;
 let numerosJugados = [];
-let numeroMaximo = 5;
+let numeroMaximo = 10;
 
 function asignarTextoElemento(elemento,texto){
     let elementoHtml = document.querySelector(elemento);
